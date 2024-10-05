@@ -37,7 +37,7 @@ str1:
         .text     # Another assembler direcrive. what follows is code
                   #  so it is stored in the text memory section (0x00000000)
      
-        
+        #This is a comment
         # Instructions are indented a few spaces to the right
         #   (so that we can see the labels more clearly)
         # Instruction operands are indented a few spaces, so that the
